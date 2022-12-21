@@ -1,0 +1,4 @@
+A dApp is developed to create a variety of applications, including those for decentralized finance,
+ web browsing, gaming and social media. 
+DApps are built on a decentralized network 
+that is supported by a blockchain distributed ledger.
