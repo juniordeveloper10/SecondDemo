@@ -1,0 +1,3 @@
+Decentralized finance, or DeFi, uses emerging technology to remove third parties and centralized institutions from financial transactions.
+ The components of DeFi are stablecoins, software, and hardware that enables the development of applications. 
+The infrastructure for DeFi and its regulation are constantly evolving.
